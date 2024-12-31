@@ -18,7 +18,7 @@
         }
     ],
     "tech": {
-        "os": "My custom Fedora Image",
+        "os": "My Custom Fedora Image",
         "primaryLanguage": "Rust",
         "secondaryLanguage": "Go",
         "otherLanguages": [
