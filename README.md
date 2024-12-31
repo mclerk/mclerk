@@ -19,13 +19,15 @@
     ],
     "tech": {
         "os": "My Custom Fedora Image",
-        "primaryLanguage": "Rust",
-        "secondaryLanguage": "Go",
-        "otherLanguages": [
-            "C",
-            "JS/TS",
-            "Python"
-        ],
+        "languages": {
+            "primary": "Rust",
+            "secondary": "Go",
+            "others": [
+                "C",
+                "JS/TS",
+                "Python"
+            ]
+        },
         "ide": [
             "VSCode",
             "Zed"
