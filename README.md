@@ -16,7 +16,7 @@ That's the lens I bring to everything. I'm not solving hypothetical enterprise p
 
 ## What I Do Now
 
-### [FL Dev](https://fl.dev) — Managing Director `2026 – Present`
+### [FL DEV](https://fl.dev) — Managing Director `2026 – Present`
 
 Builders of open source software for SMEs, designed by people who have actually run their own. 
 
